@@ -21,4 +21,4 @@ print(square.area())
 
 len, wid = int(input()), int(input())
 rectangle = Rectangle(len, wid)
-print(rectangle.area())
+print(rectangle.area()) 
